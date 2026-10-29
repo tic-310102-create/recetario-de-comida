@@ -1,0 +1,349 @@
+[
+  {
+    "id": "pan-frances",
+    "nombre": "Pan francés con frutos rojos",
+    "descripcion": "Rebanadas gruesas de pan brioche sumergidas en una mezcla cremosa de huevo, leche, vainilla y canela, doradas en mantequilla hasta quedar crujientes por fuera y tiernas por dentro. Servidas con frutos rojos y miel de maple.",
+    "categoria": "desayuno",
+    "dificultad": "Fácil",
+    "tiempoMinutos": 20,
+    "porciones": 2,
+    "emoji": "🍞",
+    "imagen": "/imagenes/recetas/pan-frances.jpg",
+    "ingredientes": [
+      {
+        "nombre": "pan brioche o pan de caja grueso",
+        "cantidad": "4 rebanadas"
+      },
+      {
+        "nombre": "huevos grandes",
+        "cantidad": "2 piezas"
+      },
+      {
+        "nombre": "leche entera o de almendra",
+        "cantidad": "1/2 taza"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "nombre": "canela en polvo",
+        "cantidad": "1/2 cucharadita"
+      },
+      {
+        "nombre": "mantequilla sin sal",
+        "cantidad": "2 cucharadas"
+      },
+      {
+        "nombre": "frutos rojos mixtos (fresas, moras, arándanos)",
+        "cantidad": "1 taza"
+      },
+      {
+        "nombre": "miel de maple pura",
+        "cantidad": "al gusto"
+      }
+    ],
+    "pasos": [
+      "En un plato hondo o tazón amplio, bate los huevos junto con la leche, el extracto de vainilla y la canela hasta que la mezcla sea uniforme.",
+      "Calienta una sartén antiadherente a fuego medio y derrite una cucharada de mantequilla.",
+      "Pasa cada rebanada de pan por la mezcla de huevo, dejándola remojar unos 15 segundos por cada lado para que absorba bien el líquido sin romperse.",
+      "Coloca el pan en la sartén caliente y cocina de 2 a 3 minutos por lado, hasta que esté dorado y crujiente en los bordes.",
+      "Sirve de inmediato en un plato, decora con los frutos rojos frescos por encima y baña con miel de maple tibia."
+    ],
+    "consejos": [
+      "Usa pan de un día anterior o brioche denso para que absorba la mezcla sin deshacerse.",
+      "Mantén el fuego a nivel medio para que el centro se cocine adecuadamente sin quemar la corteza exterior."
+    ]
+  },
+  {
+    "id": "guacamole-tradicional",
+    "nombre": "Guacamole tradicional con totopos",
+    "descripcion": "El clásico guacamole preparado con aguacate Hass en su punto, cebolla blanca picada finamente, chile serrano, cilantro fresco y un toque de jugo de limón y sal de grano. Acompañado de totopos crujientes de maíz.",
+    "categoria": "desayuno",
+    "dificultad": "Fácil",
+    "tiempoMinutos": 15,
+    "porciones": 4,
+    "emoji": "🥑",
+    "imagen": "/imagenes/recetas/guacamole-tradicional.jpg",
+    "ingredientes": [
+      {
+        "nombre": "aguacates Hass maduros",
+        "cantidad": "3 piezas"
+      },
+      {
+        "nombre": "cebolla blanca picada fina",
+        "cantidad": "1/3 taza"
+      },
+      {
+        "nombre": "chile serrano sin semillas picado",
+        "cantidad": "1 pieza"
+      },
+      {
+        "nombre": "cilantro fresco picado",
+        "cantidad": "3 cucharadas"
+      },
+      {
+        "nombre": "jugo de limón",
+        "cantidad": "1 cucharada"
+      },
+      {
+        "nombre": "sal de grano",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "totopos de maíz horneados o fritos",
+        "cantidad": "1 canasta"
+      }
+    ],
+    "pasos": [
+      "En un molcajete o tazón, machaca ligeramente una cucharada de cebolla, un poco de chile serrano y una pizca de sal para extraer sus aceites esenciales.",
+      "Corta los aguacates por la mitad, retira el hueso y extrae la pulpa con una cuchara directamente sobre el tazón.",
+      "Machaca el aguacate con un tenedor dejando algunos tropezones rústicos para una mejor textura.",
+      "Incorpora el resto de la cebolla, el cilantro picado, el chile serrano y el jugo de limón.",
+      "Mezcla suavemente con una cuchara, prueba de sazón y rectifica la sal si es necesario. Sirve con totopos calientes."
+    ],
+    "consejos": [
+      "No batas en exceso: un buen guacamole debe tener textura con tropezones tiernos de aguacate.",
+      "Si vas a reservarlo un rato antes de servir, coloca un plástico transparente directamente sobre la superficie para evitar la oxidación."
+    ]
+  },
+  {
+    "id": "ceviche-pescado",
+    "nombre": "Ceviche fresco de pescado",
+    "descripcion": "Cubos de pescado blanco fresco marinados en jugo de limón recién exprimido, mezclados con jitomate, cebolla morada, pepino crujiente, chile serrano y hojas de cilantro. Terminado con abanico de aguacate y tostadas de maíz.",
+    "categoria": "comida",
+    "dificultad": "Media",
+    "tiempoMinutos": 30,
+    "porciones": 4,
+    "emoji": "🐟",
+    "imagen": "/imagenes/recetas/ceviche-pescado.jpg",
+    "destacada": true,
+    "ingredientes": [
+      {
+        "nombre": "filete de pescado blanco fresco (huachinango o corvina)",
+        "cantidad": "500 g"
+      },
+      {
+        "nombre": "jugo de limón verde fresco",
+        "cantidad": "3/4 taza"
+      },
+      {
+        "nombre": "cebolla morada cortada en juliana fina",
+        "cantidad": "1/2 pieza"
+      },
+      {
+        "nombre": "pepino pelado, sin semillas y en cubos",
+        "cantidad": "1 pieza"
+      },
+      {
+        "nombre": "jitomate bola firme en cubos pequeños",
+        "cantidad": "2 piezas"
+      },
+      {
+        "nombre": "chile serrano picado fino",
+        "cantidad": "1 pieza"
+      },
+      {
+        "nombre": "cilantro fresco picado",
+        "cantidad": "1/2 taza"
+      },
+      {
+        "nombre": "aguacate maduro en rebanadas",
+        "cantidad": "1 pieza"
+      },
+      {
+        "nombre": "sal marina y pimienta molida",
+        "cantidad": "al gusto"
+      }
+    ],
+    "pasos": [
+      "Corta el pescado blanco en cubos pequeños de aproximadamente 1 cm y colócalo en un tazón de vidrio.",
+      "Vierte el jugo de limón recién exprimido sobre el pescado asegurándote de que quede completamente cubierto. Agrega una pizca generosa de sal y refrigera durante 15 a 20 minutos hasta que el pescado se torne blanco opaco.",
+      "Escurre un tercio del exceso de jugo de limón si prefieres un ceviche menos ácido.",
+      "Agrega la cebolla morada, el pepino, el jitomate, el chile serrano y el cilantro picado.",
+      "Mezcla con movimientos suaves y rectifica de sal y pimienta.",
+      "Sirve en platos fríos o copas de cristal, decora con rebanadas de aguacate y acompaña con tostadas de maíz crujientes."
+    ],
+    "consejos": [
+      "Utiliza siempre pescado fresco de la mejor calidad y mantenlo muy frío durante toda la preparación.",
+      "No dejes marinar el pescado por más de 30 minutos para evitar que la acidez del limón reseque la carne."
+    ]
+  },
+  {
+    "id": "tacos-birria",
+    "nombre": "Tacos de birria con consomé",
+    "descripcion": "Suave carne de res estofada lentamente en un adobo aromático de chiles secos y especias mexicanas. Servida en tortillas pasadas por el caldo y doradas en comal con queso Oaxaca derretido, cebolla, cilantro y un tazón de consomé caliente para sopear.",
+    "categoria": "comida",
+    "dificultad": "Media",
+    "tiempoMinutos": 60,
+    "porciones": 4,
+    "emoji": "🌮",
+    "imagen": "/imagenes/recetas/tacos-birria.jpg",
+    "destacada": true,
+    "ingredientes": [
+      {
+        "nombre": "carne de res para deshebrar (falda y chamorro)",
+        "cantidad": "800 g"
+      },
+      {
+        "nombre": "chiles guajillo desvenados",
+        "cantidad": "4 piezas"
+      },
+      {
+        "nombre": "chile ancho desvenado",
+        "cantidad": "1 pieza"
+      },
+      {
+        "nombre": "jitomates maduros asados",
+        "cantidad": "2 piezas"
+      },
+      {
+        "nombre": "dientes de ajo y 1/4 de cebolla",
+        "cantidad": "3 dientes"
+      },
+      {
+        "nombre": "orégano mexicano, comino y clavo de olor",
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "nombre": "queso Oaxaca o Chihuahua rallado",
+        "cantidad": "250 g"
+      },
+      {
+        "nombre": "tortillas de maíz taqueras",
+        "cantidad": "12 piezas"
+      },
+      {
+        "nombre": "cebolla picada, cilantro y limones para acompañar",
+        "cantidad": "al gusto"
+      }
+    ],
+    "pasos": [
+      "Hidrata los chiles en agua caliente durante 10 minutos hasta que estén suaves.",
+      "Licúa los chiles con los jitomates asados, la cebolla, el ajo, las especias y 1 taza del agua de cocción hasta lograr un adobo terso y pásalo por un colador.",
+      "Coloca la carne en una olla grande, vierte el adobo y suficiente caldo de res para cubrirla. Cocina a fuego lento tapado durante 2 horas (o 45 minutos en olla express) hasta que la carne esté tan suave que se deshebre con facilidad.",
+      "Retira la carne, deshébrala y reserva. Mantén el consomé caliente en la olla.",
+      "Pasa cada tortilla rápidamente por la capa superficial de grasa del consomé y colócala en una plancha o comal caliente.",
+      "Agrega una porción de queso rallado sobre la tortilla, añade la carne deshebrada, dobla por la mitad y dora por ambos lados hasta que el queso quede fundido y la tortilla crujiente.",
+      "Sirve los tacos con cebolla picada y cilantro fresco, acompañados de un tazón de consomé caliente con limón para sumergirlos."
+    ],
+    "consejos": [
+      "Aprovecha la grasa rojiza que sube a la superficie de la birria para darle color y sabor inigualable a las tortillas.",
+      "El consomé sabe aún mejor si le agregas unas gotas de limón fresco y una pizca de cebolla picada antes de sopear."
+    ]
+  },
+  {
+    "id": "tacos-pescado",
+    "nombre": "Tacos de pescado estilo Ensenada",
+    "descripcion": "Tiras de pescado blanco rebozadas en un capeado ligero y crujiente a la cerveza, servidas en tortillas de maíz calientes con ensalada fresca de col morada, aderezo cremoso de chipotle y limón.",
+    "categoria": "cena",
+    "dificultad": "Fácil",
+    "tiempoMinutos": 35,
+    "porciones": 3,
+    "emoji": "🌮",
+    "imagen": "/imagenes/recetas/tacos-pescado.jpg",
+    "ingredientes": [
+      {
+        "nombre": "filetes de pescado blanco firmes cortados en tiras",
+        "cantidad": "450 g"
+      },
+      {
+        "nombre": "harina de trigo de todo uso",
+        "cantidad": "1 taza"
+      },
+      {
+        "nombre": "cerveza clara bien fría",
+        "cantidad": "3/4 taza"
+      },
+      {
+        "nombre": "polvo para hornear y sal",
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "nombre": "aceite vegetal para freír",
+        "cantidad": "2 tazas"
+      },
+      {
+        "nombre": "col morada rallada finamente",
+        "cantidad": "2 tazas"
+      },
+      {
+        "nombre": "mayonesa y crema ácida con chipotle",
+        "cantidad": "1/2 taza"
+      },
+      {
+        "nombre": "tortillas de maíz calientes",
+        "cantidad": "8 piezas"
+      }
+    ],
+    "pasos": [
+      "En un tazón mezcla la harina, el polvo para hornear, una pizca de sal y pimienta. Vierte la cerveza fría poco a poco mientras bates hasta obtener una consistencia similar a la de hot cakes ligeros.",
+      "Calienta el aceite en una sartén honda a 180 °C (fuego medio-alto).",
+      "Pasa cada tira de pescado por el rebozado asegurando que quede cubierta por completo y colócala con cuidado en el aceite caliente.",
+      "Fríe de 3 a 4 minutos, volteando a la mitad, hasta que adquiera un color dorado hermoso y textura crujiente. Escurre sobre una rejilla o papel absorbente.",
+      "Calienta las tortillas en un comal y monta los tacos colocando una tira de pescado frito en cada una.",
+      "Corona con la col morada fresca, rocía generosamente con el aderezo de chipotle y acompaña con cuartos de limón verde."
+    ],
+    "consejos": [
+      "La cerveza debe estar muy fría para que el choque térmico con el aceite caliente logre un rebozado extra crujiente y aireado.",
+      "Sirve inmediatamente para disfrutar al máximo el contraste entre el pescado crujiente caliente y la col fresca."
+    ]
+  },
+  {
+    "id": "cheesecake-frutos-rojos",
+    "nombre": "Cheesecake de frutos rojos",
+    "descripcion": "Pastel de queso horneado de textura sedosa y suave sobre una crujiente base de galleta con mantequilla, coronado con una salsa casera de frutos rojos, fresas y zarzamoras frescas.",
+    "categoria": "postre",
+    "dificultad": "Media",
+    "tiempoMinutos": 50,
+    "porciones": 8,
+    "emoji": "🍰",
+    "imagen": "/imagenes/recetas/cheesecake-frutos-rojos.jpg",
+    "ingredientes": [
+      {
+        "nombre": "queso crema a temperatura ambiente",
+        "cantidad": "600 g"
+      },
+      {
+        "nombre": "azúcar refinada",
+        "cantidad": "3/4 taza"
+      },
+      {
+        "nombre": "huevos a temperatura ambiente",
+        "cantidad": "3 piezas"
+      },
+      {
+        "nombre": "crema ácida o sour cream",
+        "cantidad": "1/2 taza"
+      },
+      {
+        "nombre": "extracto de vainilla",
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "nombre": "galletas tipo María o Graham molidas",
+        "cantidad": "200 g"
+      },
+      {
+        "nombre": "mantequilla sin sal derretida",
+        "cantidad": "90 g"
+      },
+      {
+        "nombre": "mermelada casera y frutos rojos frescos",
+        "cantidad": "1 taza"
+      }
+    ],
+    "pasos": [
+      "Mezcla las galletas molidas con la mantequilla derretida hasta obtener una textura de arena húmeda. Presiona firmemente sobre la base de un molde desmontable de 22 cm forrado con papel para hornear.",
+      "Bate el queso crema con el azúcar a velocidad baja hasta que esté suave y cremoso, sin sobrebatir para evitar incorporar demasiado aire.",
+      "Agrega los huevos uno a uno, batiendo despacio después de cada adición. Incorpora la crema ácida y la vainilla.",
+      "Vierte la mezcla de queso sobre la base de galleta y hornea a 160 °C a baño maría durante 50 a 60 minutos, hasta que los bordes estén firmes y el centro aún tenga un ligero temblor.",
+      "Apaga el horno y deja enfriar el cheesecake dentro con la puerta entreabierta durante 1 hora. Luego refrigera al menos 4 horas (idealmente toda la noche).",
+      "Antes de servir, desmolda con cuidado y cubre la superficie con la mermelada y abundantes frutos rojos frescos."
+    ],
+    "consejos": [
+      "Hornear a baño maría y dejar enfriar gradualmente dentro del horno apagado evita que la superficie del cheesecake se agriete.",
+      "Todos los ingredientes del relleno deben estar a temperatura ambiente para lograr una mezcla perfectamente homogénea sin grumos."
+    ]
+  }
+]

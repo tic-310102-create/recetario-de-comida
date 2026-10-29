@@ -1,0 +1,35 @@
+@import 'tailwindcss';
+
+/* Nueva paleta gourmet moderna y tipografía refinada */
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Playfair Display', ui-serif, Georgia, serif;
+
+  --color-crema: #f8fafc;
+  --color-tinta: #0f172a;
+  --color-barro: #e11d48;
+  --color-barro-oscuro: #be123c;
+  --color-maiz: #f59e0b;
+  --color-nopal: #059669;
+}
+
+body {
+  @apply bg-crema text-tinta font-sans antialiased;
+}
+
+/* Sin animaciones: renderizado limpio e inmediato */
+[data-reveal] {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+@media print {
+  header, footer, button, nav {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
